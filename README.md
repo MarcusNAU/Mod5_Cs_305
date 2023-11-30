@@ -4,6 +4,9 @@ along with user information to better track user favorite foods and trends. The 
 favorite and hated ingredients, and much more to curate the right recipes for the user. Once the filter is set, the site will then feed recipes to the user one by one until
 the desired amount of recipes are selected.
 
+## License
+The license we will be using is the MIT License 
+
 
 ## Authors 
 - **Marcus Booker** - [MarcusNAU](https://github.com/MarcusNAU)
