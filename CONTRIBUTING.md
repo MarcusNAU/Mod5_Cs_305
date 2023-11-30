@@ -1,4 +1,4 @@
-#CONTRIBUTING
+# CONTRIBUTING
 
 Michael Miller
 CS305
